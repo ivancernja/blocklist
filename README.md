@@ -2,4 +2,4 @@ To-do list built on blockchain technology, users get digital keys that let them 
 
 Data is encrypted and easily shared between applications.
 
-!(https://i.imgur.com/DkXdVEa.png|alt=blockstack)
+![alt text](https://i.imgur.com/DkXdVEa.png|alt=blockstack)
